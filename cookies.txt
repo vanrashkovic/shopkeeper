@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shopkeeper-demo.getbowtied.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_73c982e16ccccbe8b84b9d605eccabd7	t_c5dde6c6c2e24cb30fb4a6d382841b%7C%7C1697043392%7C%7C1697039792%7C%7Cf79f063d68491d07877afcc1fd68ff8b
+shopkeeper-demo.getbowtied.com	TRUE	/	FALSE	1999999999	tk_ai	jetpack%3AAAQWsdEellZWymLCHcSbATZp
+shopkeeper-demo.getbowtied.com	TRUE	/	FALSE	1999999999	yith_wcwl_session_73c982e16ccccbe8b84b9d605eccabd7	%7B%22session_id%22%3A%22897871cbe202e097ad36b7c2c4442cae%22%2C%22session_expiration%22%3A1699463419%2C%22session_expiring%22%3A1699459819%2C%22cookie_hash%22%3A%226b5636e79441c2dff2ef03a9f07d788a%22%7D
+shopkeeper-demo.getbowtied.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+shopkeeper-demo.getbowtied.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	cf869f4ef0c782ec8d2008135d8d907c
+
